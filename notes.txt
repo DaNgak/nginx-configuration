@@ -1,0 +1,3 @@
+- Jangan lupa untuk membuat certificate di tab origin server pada cloudflare
+- Kemudian aktifkan SSL/TLS encryption mode nya ke on (bebas pilih Flexible, Full ataupun Full strict)
+- Aktifkan fitur always use HTTPS, jadi semua request HTTP akan ke redirect ke port HTTPS (443)
